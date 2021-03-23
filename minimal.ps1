@@ -86,7 +86,7 @@ $tweaks = @(
 	"EnableUpdateMSRT",          # "DisableUpdateMSRT",
 	"DisableUpdateDriver",        # "EnableUpdateDriver",
 	"DisableUpdateRestart",         # "EnableUpdateRestart",
-	"DisableHomeGroups",          # "EnableHomeGroups",
+	# "DisableHomeGroups",          # "EnableHomeGroups",
 	"DisableSharedExperiences",     # "EnableSharedExperiences",
 	"DisableRemoteAssistance",      # "EnableRemoteAssistance",
 	"DisableRemoteDesktop",          # "EnableRemoteDesktop",
